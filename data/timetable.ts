@@ -57,6 +57,6 @@ export const timetable: Timetable = {
   SAT: [
     { time: "09:00 AM - 09:55 AM", entry: "L-25B11CI411 24A11,24A12,24A13 (ALK) CR5" },
     { time: "10:00 AM - 10:55 AM", entry: "L-25B11CI412 24A11,24A12,24A13 (AKJ) CR5" },
-    { time: "11:00 AM - 11:55 AM", entry: "T-25B11CI412 24A12 (AKJ) TR7" },
+    { time: "12:00 PM - 12:55 PM", entry: "T-25B11CI412 24A12 (AKJ) TR7" },
   ],
 };
