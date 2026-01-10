@@ -217,8 +217,7 @@ export default function Page() {
       {/* Content */}
       <div className="max-w-6xl mx-auto px-4 sm:px-6 py-6 sm:py-8">
         <div className="space-y-3">
-          {currentDayEntries.length > 0 ? (
-            currentDayEntries.map((item, idx) => {
+          {currentDayEntries.length > 0 ? (currentDayEntries.map((item, idx) => {
               // Skip rendering empty break slots or render them differently
               const isBreak = !item.entry;
               
