@@ -14,7 +14,7 @@ export const timetable: Timetable = {
     { time: "11:00 AM - 11:55 AM", entry: "P-25B17CI473 24A12 (RBT) CL6" },
     { time: "12:00 PM - 12:55 PM", entry: "P-25B17CI473 24A12 (RBT) CL6" },
     { time: "02:00 PM - 02:55 PM", entry: "L-25B1WHS432 (DLR) CR9" },
-    { time: "03:00 PM - 03:55 PM", entry: "L-25B11CI412 24A11,24A12,24A13 (AKJ) CR5" },
+    { time: "03:00 PM - 03:55 PM", entry: "L-25B11CI412 24A11,24A12,24A13 (AKJ) CR7" },
     { time: "04:00 PM - 04:55 PM", entry: "L-25B11CI413 24A11,24A12,24A13 (RBT) LT2" },
   ],
 
